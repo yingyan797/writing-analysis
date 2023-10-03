@@ -1,0 +1,21 @@
+***Writing analysis***
+
+Original passage (clipped): 
+=====
+Both factors, a radical, passionate interpretatio ...... self in significant fashion. 
+=====
+
+Most frequently occuring words (4 letters or more): 
+  "idea"                3 times
+  "audience"            3 times
+  "interpretation"      2 times
+  "factors"             2 times
+  "commonplace"         2 times
+
+=====
+The following words appear only once:
+absent,accept,both,bulk,comes,considered,establish,eventually,exist,fashion,foothold,formulation,found,from,fruition,gain,given,great,hazards,hope,informed,inquiry,interesting,itself,material,must,necessary,palatable,passion,passionate,preparedness,radical,same,significant,size,still,such,sufficient,sufficiently,these,thinker,truly,will,
+=====
+
+Statistics:
+Total word count: 111; Average word legnth: 4.747747747747748; Average number of words in each sentence: 27.75
